@@ -21,6 +21,7 @@
     "@rushstack/eslint-patch": "^1.2.0",
     "@tsconfig/node18": "^2.0.1",
     "@types/chai": "^4.3.5",
+    "@types/jest": "^29.5.2",
     "@types/mocha": "^10.0.1",
     "@types/node": "^18.16.17",
     "@vitejs/plugin-vue": "^4.2.3",
